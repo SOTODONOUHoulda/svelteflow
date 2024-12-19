@@ -69,7 +69,7 @@
                     <input
                         type="text"
                         bind:value={message1}
-                        class="shadow-inner focus:shadow-outline rounded-lg font-bold text-center text-md border-2 w-full p-2 mt-2"
+                        class="shadow-inner focus:shadow-outline rounded-lg font-bold text-center text-md border-2 w-full p-2 mt-3"
                     />
                 </div>
 
@@ -90,7 +90,7 @@
                         <input
                             type="text"
                             bind:value={username}
-                            class="shadow-inner focus:shadow-outline rounded-lg font-bold text-md border-2 w-full p-2 mt-2 pr-40"
+                            class="shadow-inner focus:shadow-outline rounded-lg font-bold text-md border-2 w-full p-2 mt-2 "
                         />
                     </div>
 
@@ -101,7 +101,7 @@
                         <input
                             type="text"
                             bind:value={email}
-                            class="shadow-inner focus:shadow-outline rounded-lg font-bold text-md border-2 w-full p-2 mt-2 -pr-10"
+                            class="shadow-inner focus:shadow-outline rounded-lg font-bold text-md border-2 w-full p-2 mt-2 "
                         />
                     </div>
                 </div>
